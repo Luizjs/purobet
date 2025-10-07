@@ -32,7 +32,7 @@ Além disso, conta com:
 
 * [Python 3](https://www.python.org/)
 * [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
-* [Pillow](https://python-pillow.org/) (para manipulação de imagens)
+* [Pillow](https://pypi.org/project/pillow/) (para manipulação de imagens)
 * [SQLite](https://www.sqlite.org/)
 
 ---
