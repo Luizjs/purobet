@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 # ===================================================================================
 # PROJETO PUROBET - CASSINO FICTÍCIO
 # Versão Final: Com Banco de Dados, Logs, Interface Gráfica Completa e Comentários.
